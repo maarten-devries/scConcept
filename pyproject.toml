@@ -28,7 +28,7 @@ dependencies = [
   "session-info2",
   "numpy",
   "pandas",
-  "torch==2.6.0",
+  "torch>=2.6.0",
   "torchvision",
   "lightning",
   "scanpy>=1.10.0",
